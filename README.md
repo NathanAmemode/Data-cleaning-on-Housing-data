@@ -1,6 +1,6 @@
 # Data-cleaning-on-Housing-data
 
-This data contains data on housing for Nashville a city in Tennessee In USA
+This contains data on housing for Nashville a city in Tennessee In USA
 considering factors like:
 1. Property address
 2. Owner address
